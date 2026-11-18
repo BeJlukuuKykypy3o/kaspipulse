@@ -1,0 +1,22 @@
+stage,action,reason,product_id,name,price,reviews_count,detail
+2_dedup,merged,duplicate_sku,102175971,Салфетки влажные Flovell Care Classic розовые 120 шт,394,28506,"2 строк → 1; min_price=394; best_merchant='12650053, Satel'"
+2_dedup,merged,duplicate_sku,102175971,Салфетки влажные Flovell Care Classic розовые 120 шт,395,28506,"2 строк → 1; min_price=394; best_merchant='12650053, Satel'"
+2_dedup,merged,duplicate_sku,107070922,"Тряпка универсальная Santex Allzwecktuch 3 шт, вискоза",474,568,2 строк → 1; min_price=474; best_merchant='Magnum'
+2_dedup,merged,duplicate_sku,107070922,"Тряпка универсальная Santex Allzwecktuch 3 шт, вискоза",474,568,2 строк → 1; min_price=474; best_merchant='Magnum'
+2_dedup,merged,duplicate_sku,112303616,Huter SGC 2500EL,97890,79,2 строк → 1; min_price=97890; best_merchant='Nemo'
+2_dedup,merged,duplicate_sku,112303616,Huter SGC 2500EL,97890,79,2 строк → 1; min_price=97890; best_merchant='Nemo'
+2_dedup,merged,duplicate_sku,27600261,"Бензиновый триммер 2900 Вт GGT-2900S Huter двухтактный, антивибрационная система",51090,112,2 строк → 1; min_price=51090; best_merchant='30403983'
+2_dedup,merged,duplicate_sku,27600261,"Бензиновый триммер 2900 Вт GGT-2900S Huter двухтактный, антивибрационная система",51090,112,2 строк → 1; min_price=51090; best_merchant='30403983'
+2_dedup,merged,duplicate_sku,105278910,"Швабра универсальная ФЕЛИКС, материал насадки: без насадки, бежевый",1209,260,2 строк → 1; min_price=1209; best_merchant='30305207'
+2_dedup,merged,duplicate_sku,105278910,"Швабра универсальная ФЕЛИКС, материал насадки: без насадки, бежевый",1209,260,2 строк → 1; min_price=1209; best_merchant='30305207'
+2_dedup,merged,duplicate_sku,102756585,"Набор полотенец 70x40 см, хлопок, махровая ткань, 10 шт,",3881,2615,2 строк → 1; min_price=3881; best_merchant='16369055'
+2_dedup,merged,duplicate_sku,102756585,"Набор полотенец 70x40 см, хлопок, махровая ткань, 10 шт,",3881,2615,2 строк → 1; min_price=3881; best_merchant='16369055'
+2_dedup,merged,duplicate_sku,105591633,Набор вешалок Dunya Plast 000000000203 черный 10 шт,724,2268,2 строк → 1; min_price=724; best_merchant='30479144'
+2_dedup,merged,duplicate_sku,105591633,Набор вешалок Dunya Plast 000000000203 черный 10 шт,724,2268,2 строк → 1; min_price=724; best_merchant='30479144'
+2_dedup,merged,duplicate_sku,145530186,"Машинка Prime House от сети, кол-во насадок: 1",4750,206,2 строк → 1; min_price=4750; best_merchant='30350675'
+2_dedup,merged,duplicate_sku,145530186,"Машинка Prime House от сети, кол-во насадок: 1",4750,206,2 строк → 1; min_price=4750; best_merchant='30350675'
+2_dedup,merged,duplicate_sku,115698849,Набор для бани BOSS 150881085 2 шт,1997,74,2 строк → 1; min_price=1997; best_merchant='30428944'
+2_dedup,merged,duplicate_sku,115698849,Набор для бани BOSS 150881085 2 шт,1997,74,2 строк → 1; min_price=1997; best_merchant='30428944'
+6_outliers,flagged,abnormal_delta_reviews,116664159,"Тряпка для зеркал и стекол, для мебели, для металлических поверхностей, для пола",673,3722,Δreviews=47 > threshold=9 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,102175971,Салфетки влажные Flovell Care Classic розовые 120 шт,394,28506,Δreviews=87 > threshold=9 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,142513353,"Подушка NikStory 50x70 см, файбер",1590,1215,Δreviews=12 > threshold=9 (Q3+3.0·IQR)
