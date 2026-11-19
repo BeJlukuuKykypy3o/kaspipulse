@@ -13,7 +13,7 @@ KaspiPulse — конфигурация скрейпера.
 #
 # Чтобы сузить нишу до подкатегории — открой её на kaspi.kz и через DevTools
 # скопируй код из q. Пока стартуем с широкой "Home" (Товары для дома и дачи).
-CATEGORY_CODE = "Aconstruction"
+CATEGORY_CODE = "Construction"
 NICHE_NAME = "Конструкторы"
 NICHE_SLUG = "constructors"
 
