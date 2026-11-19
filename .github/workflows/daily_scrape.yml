@@ -46,6 +46,7 @@ jobs:
           git add data/
           # коммитим только если что-то изменилось
           git diff --staged --quiet || git commit -m "data: daily snapshot $(date -u +%Y-%m-%d)"
+          git pull --rebase
           git push
 
       # --- Загрузка в BigQuery (best-effort) ---
