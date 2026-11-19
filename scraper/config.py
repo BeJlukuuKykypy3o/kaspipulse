@@ -13,9 +13,9 @@ KaspiPulse — конфигурация скрейпера.
 #
 # Чтобы сузить нишу до подкатегории — открой её на kaspi.kz и через DevTools
 # скопируй код из q. Пока стартуем с широкой "Home" (Товары для дома и дачи).
-CATEGORY_CODE = "Home"
-NICHE_NAME = "Товары для дома"
-NICHE_SLUG = "home"
+CATEGORY_CODE = "Aconstruction"
+NICHE_NAME = "Конструкторы"
+NICHE_SLUG = "constructors"
 
 # ---------------------------------------------------------------------------
 # ГОРОД И ЗОНА ДОСТАВКИ
@@ -29,7 +29,7 @@ CITIES = {
     "almaty":   {"city_id": "750000000", "zone": "Magnum_ZONE1"},  # подтверждено
     "shymkent": {"city_id": "511010000", "zone": "511010000"},     # подтверждено
 }
-ACTIVE_CITY = "astana"   # << меняй здесь, остальное подтянется автоматически
+ACTIVE_CITY = "almaty"   # << меняй здесь, остальное подтянется автоматически
 
 CITY_ID        = CITIES[ACTIVE_CITY]["city_id"]
 AVAILABLE_ZONE = CITIES[ACTIVE_CITY]["zone"]
