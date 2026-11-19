@@ -1,0 +1,17 @@
+stage,action,reason,product_id,name,price,reviews_count,detail
+2_dedup,merged,duplicate_sku,107070922,"Тряпка универсальная Santex Allzwecktuch 3 шт, вискоза",474,568,2 строк → 1; min_price=474; best_merchant='Magnum'
+2_dedup,merged,duplicate_sku,107070922,"Тряпка универсальная Santex Allzwecktuch 3 шт, вискоза",474,568,2 строк → 1; min_price=474; best_merchant='Magnum'
+2_dedup,merged,duplicate_sku,101191530,"Губка для посуды PaclanPRACTI Universal 5 шт, поролон, абразив",549,366,2 строк → 1; min_price=549; best_merchant='Magnum'
+2_dedup,merged,duplicate_sku,101191530,"Губка для посуды PaclanPRACTI Universal 5 шт, поролон, абразив",549,366,2 строк → 1; min_price=549; best_merchant='Magnum'
+2_dedup,merged,duplicate_sku,100522399,Глобус-бар напольный Jufeng политический 33 см,58000,84,2 строк → 1; min_price=58000; best_merchant='1067007'
+2_dedup,merged,duplicate_sku,100522399,Глобус-бар напольный Jufeng политический 33 см,58000,84,2 строк → 1; min_price=58000; best_merchant='1067007'
+2_dedup,merged,duplicate_sku,115869279,"Ортопедическая подушка для беременных LAVbaby Textile 80x140 см, холлофайбер",17900,81,2 строк → 1; min_price=17900; best_merchant='Lavbaby'
+2_dedup,merged,duplicate_sku,115869279,"Ортопедическая подушка для беременных LAVbaby Textile 80x140 см, холлофайбер",17900,81,2 строк → 1; min_price=17900; best_merchant='Lavbaby'
+2_dedup,merged,duplicate_sku,143237381,"Зеркало настенное, настольное Miline ALFrame 80x80 см",19900,132,2 строк → 1; min_price=19900; best_merchant='9818048'
+2_dedup,merged,duplicate_sku,143237381,"Зеркало настенное, настольное Miline ALFrame 80x80 см",19900,132,2 строк → 1; min_price=19900; best_merchant='9818048'
+2_dedup,merged,duplicate_sku,145616759,Набор кастрюль MasterShef 8 в 1,17100,250,2 строк → 1; min_price=17100; best_merchant='10854001'
+2_dedup,merged,duplicate_sku,145616759,Набор кастрюль MasterShef 8 в 1,17100,250,2 строк → 1; min_price=17100; best_merchant='10854001'
+6_outliers,flagged,abnormal_delta_reviews,112640978,"Набор органайзеров для нижнего белья белый, серый, 6 шт",1599,2167,Δreviews=10 > threshold=5 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,114269290,"Отбеливатель TAZA Кислородный эко порошок, 1000 мл",2750,11074,Δreviews=6 > threshold=5 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,102175971,Салфетки влажные Flovell Care Classic розовые 120 шт,356,28593,Δreviews=87 > threshold=5 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,142513353,"Подушка NikStory 50x70 см, файбер",1590,1223,Δreviews=8 > threshold=5 (Q3+3.0·IQR)
