@@ -1,0 +1,85 @@
+stage,action,reason,product_id,name,price,reviews_count,detail
+2_dedup,merged,duplicate_sku,117540372,"Конструктор Brick Disney W2601-48, деталей 178 шт",300,58,2 строк → 1; min_price=300; best_merchant='30287062'
+2_dedup,merged,duplicate_sku,117540372,"Конструктор Brick Disney W2601-48, деталей 178 шт",300,58,2 строк → 1; min_price=300; best_merchant='30287062'
+2_dedup,merged,duplicate_sku,132836101,"Конструктор Bricks Веном F3024, деталей 100 шт",300,63,2 строк → 1; min_price=300; best_merchant='30287062'
+2_dedup,merged,duplicate_sku,132836101,"Конструктор Bricks Веном F3024, деталей 100 шт",300,63,2 строк → 1; min_price=300; best_merchant='30287062'
+2_dedup,merged,duplicate_sku,109326402,"Конструктор Technique Ford A55355, деталей 1379 шт",13287,17,"2 строк → 1; min_price=12622; best_merchant='30271451, 30387339'"
+2_dedup,merged,duplicate_sku,109326402,"Конструктор Technique Ford A55355, деталей 1379 шт",12622,17,"2 строк → 1; min_price=12622; best_merchant='30271451, 30387339'"
+2_dedup,merged,duplicate_sku,103388029,"Конструктор LEGO Creator 3-in-1 31129, деталей 755 шт",41154,16,"2 строк → 1; min_price=38273; best_merchant='14627021, Vsetovarykz'"
+2_dedup,merged,duplicate_sku,103388029,"Конструктор LEGO Creator 3-in-1 31129, деталей 755 шт",38273,16,"2 строк → 1; min_price=38273; best_merchant='14627021, Vsetovarykz'"
+2_dedup,merged,duplicate_sku,150179326,"Конструктор LEGO Creator 31142, деталей 874 шт",70092,3,"3 строк → 1; min_price=64484; best_merchant='14627021, Vsetovarykz'"
+2_dedup,merged,duplicate_sku,150179326,"Конструктор LEGO Creator 31142, деталей 874 шт",70092,3,"3 строк → 1; min_price=64484; best_merchant='14627021, Vsetovarykz'"
+2_dedup,merged,duplicate_sku,150179326,"Конструктор LEGO Creator 31142, деталей 874 шт",64484,3,"3 строк → 1; min_price=64484; best_merchant='14627021, Vsetovarykz'"
+2_dedup,merged,duplicate_sku,139995523,"Конструктор LEGO Боевой робот кружитцу Арин Ninjago 71839, деталей 213 шт",9540,77,2 строк → 1; min_price=9540; best_merchant='Evrika'
+2_dedup,merged,duplicate_sku,139995523,"Конструктор LEGO Боевой робот кружитцу Арин Ninjago 71839, деталей 213 шт",9540,77,2 строк → 1; min_price=9540; best_merchant='Evrika'
+2_dedup,merged,duplicate_sku,144217790,"Конструктор Магнитные шарики 5мм Игрушка антистресс 16672217_719740010, деталей ",2650,59,2 строк → 1; min_price=2650; best_merchant='30334756'
+2_dedup,merged,duplicate_sku,144217790,"Конструктор Магнитные шарики 5мм Игрушка антистресс 16672217_719740010, деталей ",2650,59,2 строк → 1; min_price=2650; best_merchant='30334756'
+2_dedup,merged,duplicate_sku,120241141,"Конструктор Minecraft 100d, деталей 100 шт",2998,16,2 строк → 1; min_price=2998; best_merchant='30473048'
+2_dedup,merged,duplicate_sku,120241141,"Конструктор Minecraft 100d, деталей 100 шт",2998,16,2 строк → 1; min_price=2998; best_merchant='30473048'
+2_dedup,merged,duplicate_sku,139995761,"Конструктор LEGO Битва Матео с Кибер-роботом DREAMZzz 71495, деталей 368 шт",35208,5,"2 строк → 1; min_price=32743; best_merchant='14627021, Vsetovarykz'"
+2_dedup,merged,duplicate_sku,139995761,"Конструктор LEGO Битва Матео с Кибер-роботом DREAMZzz 71495, деталей 368 шт",32743,5,"2 строк → 1; min_price=32743; best_merchant='14627021, Vsetovarykz'"
+2_dedup,merged,duplicate_sku,103965061,"Конструктор BOBO kids Инструменты 03838, деталей 9 шт",6889,80,2 строк → 1; min_price=6889; best_merchant='18559341'
+2_dedup,merged,duplicate_sku,103965061,"Конструктор BOBO kids Инструменты 03838, деталей 9 шт",6889,80,2 строк → 1; min_price=6889; best_merchant='18559341'
+2_dedup,merged,duplicate_sku,124443003,"Конструктор Bricks Дафиг-Даг 3д 6638, деталей 161 шт",230,49,2 строк → 1; min_price=230; best_merchant='30448227'
+2_dedup,merged,duplicate_sku,124443003,"Конструктор Bricks Дафиг-Даг 3д 6638, деталей 161 шт",230,49,2 строк → 1; min_price=230; best_merchant='30448227'
+2_dedup,merged,duplicate_sku,132491566,"Конструктор LEGO Duplo 10447, деталей 19 шт",8840,40,2 строк → 1; min_price=8840; best_merchant='Evrika'
+2_dedup,merged,duplicate_sku,132491566,"Конструктор LEGO Duplo 10447, деталей 19 шт",8840,40,2 строк → 1; min_price=8840; best_merchant='Evrika'
+2_dedup,merged,duplicate_sku,119939432,"Конструктор LEGO City 60422, деталей 1226 шт",71550,3,"2 строк → 1; min_price=67972; best_merchant='14627021, 15549358'"
+2_dedup,merged,duplicate_sku,119939432,"Конструктор LEGO City 60422, деталей 1226 шт",67972,3,"2 строк → 1; min_price=67972; best_merchant='14627021, 15549358'"
+2_dedup,merged,duplicate_sku,100100892,"Конструктор LEGO Minecraft 21159, деталей 303 шт",68750,7,"2 строк → 1; min_price=63249; best_merchant='14627021, Vsetovarykz'"
+2_dedup,merged,duplicate_sku,100100892,"Конструктор LEGO Minecraft 21159, деталей 303 шт",63249,7,"2 строк → 1; min_price=63249; best_merchant='14627021, Vsetovarykz'"
+2_dedup,merged,duplicate_sku,119978893,"Конструктор Bricks Спанч боб 3д конструктор спанч боб, деталей 190 шт",362,34,2 строк → 1; min_price=362; best_merchant='30051703'
+2_dedup,merged,duplicate_sku,119978893,"Конструктор Bricks Спанч боб 3д конструктор спанч боб, деталей 190 шт",362,34,2 строк → 1; min_price=362; best_merchant='30051703'
+2_dedup,merged,duplicate_sku,151214317,"Конструктор MiDeer динозавры MD1499, деталей 48 шт",21800,4,2 строк → 1; min_price=21800; best_merchant='17025083'
+2_dedup,merged,duplicate_sku,151214317,"Конструктор MiDeer динозавры MD1499, деталей 48 шт",21800,4,2 строк → 1; min_price=21800; best_merchant='17025083'
+2_dedup,merged,duplicate_sku,132177838,"Конструктор Пластиковое основание для конструктора Домик 73829, деталей 716 шт",26500,6,2 строк → 1; min_price=26500; best_merchant='30458393'
+2_dedup,merged,duplicate_sku,132177838,"Конструктор Пластиковое основание для конструктора Домик 73829, деталей 716 шт",26500,6,2 строк → 1; min_price=26500; best_merchant='30458393'
+2_dedup,merged,duplicate_sku,142755389,"Конструктор LEGO Technic 42173, деталей 801 шт",42250,2,2 строк → 1; min_price=42250; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,142755389,"Конструктор LEGO Technic 42173, деталей 801 шт",42250,2,2 строк → 1; min_price=42250; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,132685966,"Конструктор LEGO Гарри Поттер Поместье Малфоев 76453, деталей 1601 шт",121770,0,2 строк → 1; min_price=121770; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,132685966,"Конструктор LEGO Гарри Поттер Поместье Малфоев 76453, деталей 1601 шт",121770,0,2 строк → 1; min_price=121770; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,140632242,"Конструктор LEGO Friends 42665, деталей 66 шт",6124,11,2 строк → 1; min_price=6124; best_merchant='MHomeVideo'
+2_dedup,merged,duplicate_sku,140632242,"Конструктор LEGO Friends 42665, деталей 66 шт",6124,11,2 строк → 1; min_price=6124; best_merchant='MHomeVideo'
+2_dedup,merged,duplicate_sku,135009103,"Конструктор LEGO Super heroes Робот Супермена против Лекса Лютора 76302, деталей",17017,4,2 строк → 1; min_price=17017; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,135009103,"Конструктор LEGO Super heroes Робот Супермена против Лекса Лютора 76302, деталей",17017,4,2 строк → 1; min_price=17017; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,140685914,"Конструктор Minecraft Дом Свинья, деталей 490 шт",7700,1,2 строк → 1; min_price=7700; best_merchant='30418766'
+2_dedup,merged,duplicate_sku,140685914,"Конструктор Minecraft Дом Свинья, деталей 490 шт",7700,1,2 строк → 1; min_price=7700; best_merchant='30418766'
+2_dedup,merged,duplicate_sku,129760339,"Конструктор LEGO BrickHeadz 41616, деталей 127 шт",28753,0,2 строк → 1; min_price=28753; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,129760339,"Конструктор LEGO BrickHeadz 41616, деталей 127 шт",28753,0,2 строк → 1; min_price=28753; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,124442834,"Конструктор Bricks Сейлор мун 3д HD-115, деталей 115 шт",373,17,2 строк → 1; min_price=373; best_merchant='30401264'
+2_dedup,merged,duplicate_sku,124442834,"Конструктор Bricks Сейлор мун 3д HD-115, деталей 115 шт",373,17,2 строк → 1; min_price=373; best_merchant='30401264'
+2_dedup,merged,duplicate_sku,143940765,"Конструктор Чужой 251970046, деталей 958 шт",12000,0,2 строк → 1; min_price=12000; best_merchant='30442198'
+2_dedup,merged,duplicate_sku,143940765,"Конструктор Чужой 251970046, деталей 958 шт",12000,0,2 строк → 1; min_price=12000; best_merchant='30442198'
+2_dedup,merged,duplicate_sku,118273388,"Конструктор Конструктор магнитный 299873, деталей 75 шт",9889,14,2 строк → 1; min_price=9889; best_merchant='30051703'
+2_dedup,merged,duplicate_sku,118273388,"Конструктор Конструктор магнитный 299873, деталей 75 шт",9889,14,2 строк → 1; min_price=9889; best_merchant='30051703'
+2_dedup,merged,duplicate_sku,107739836,"Конструктор LEGO Super Heroes 76202, деталей 142 шт",15973,4,2 строк → 1; min_price=15973; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,107739836,"Конструктор LEGO Super Heroes 76202, деталей 142 шт",15973,4,2 строк → 1; min_price=15973; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,110210857,"Конструктор LEGO Duplo 10993, деталей 126 шт",61769,12,2 строк → 1; min_price=61769; best_merchant='14627021'
+2_dedup,merged,duplicate_sku,110210857,"Конструктор LEGO Duplo 10993, деталей 126 шт",61769,12,2 строк → 1; min_price=61769; best_merchant='14627021'
+2_dedup,merged,duplicate_sku,137646182,"Конструктор NS Ninja Механический Синий Дракон 085805252, деталей 461 шт",7530,10,2 строк → 1; min_price=7530; best_merchant='30176836'
+2_dedup,merged,duplicate_sku,137646182,"Конструктор NS Ninja Механический Синий Дракон 085805252, деталей 461 шт",7530,10,2 строк → 1; min_price=7530; best_merchant='30176836'
+2_dedup,merged,duplicate_sku,107552059,"Конструктор LEGO City 60337, деталей 764 шт",108052,14,2 строк → 1; min_price=108052; best_merchant='14627021'
+2_dedup,merged,duplicate_sku,107552059,"Конструктор LEGO City 60337, деталей 764 шт",108052,14,2 строк → 1; min_price=108052; best_merchant='14627021'
+2_dedup,merged,duplicate_sku,122635463,"Конструктор BRICK Q5018, деталей 151 шт",398,11,2 строк → 1; min_price=398; best_merchant='30051703'
+2_dedup,merged,duplicate_sku,122635463,"Конструктор BRICK Q5018, деталей 151 шт",398,11,2 строк → 1; min_price=398; best_merchant='30051703'
+2_dedup,merged,duplicate_sku,141133932,"Конструктор LEGO Creator 3-in-1 LMC31137, деталей 475 шт",24948,2,2 строк → 1; min_price=24948; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,141133932,"Конструктор LEGO Creator 3-in-1 LMC31137, деталей 475 шт",24948,2,2 строк → 1; min_price=24948; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,142061450,"Конструктор Bricks DISNEY C1030, деталей 145 шт",499,2,2 строк → 1; min_price=499; best_merchant='30352665'
+2_dedup,merged,duplicate_sku,142061450,"Конструктор Bricks DISNEY C1030, деталей 145 шт",499,2,2 строк → 1; min_price=499; best_merchant='30352665'
+2_dedup,merged,duplicate_sku,100914147,"Конструктор LEGO Technic 42123, деталей 830 шт",40663,23,2 строк → 1; min_price=40663; best_merchant='14627021'
+2_dedup,merged,duplicate_sku,100914147,"Конструктор LEGO Technic 42123, деталей 830 шт",40663,23,2 строк → 1; min_price=40663; best_merchant='14627021'
+2_dedup,merged,duplicate_sku,110672504,"Конструктор Lamborghini Sian J2002, деталей 1280 шт",10499,0,2 строк → 1; min_price=10499; best_merchant='30314768'
+2_dedup,merged,duplicate_sku,110672504,"Конструктор Lamborghini Sian J2002, деталей 1280 шт",10499,0,2 строк → 1; min_price=10499; best_merchant='30314768'
+2_dedup,merged,duplicate_sku,117616936,"Конструктор Steel World Technic 1929-9899, деталей 1929 шт",28500,3,2 строк → 1; min_price=28500; best_merchant='16209265'
+2_dedup,merged,duplicate_sku,117616936,"Конструктор Steel World Technic 1929-9899, деталей 1929 шт",28500,3,2 строк → 1; min_price=28500; best_merchant='16209265'
+2_dedup,merged,duplicate_sku,134465007,"Конструктор LEGO Icons 10353, деталей 799 шт",32495,4,2 строк → 1; min_price=32495; best_merchant='MHomeVideo'
+2_dedup,merged,duplicate_sku,134465007,"Конструктор LEGO Icons 10353, деталей 799 шт",32495,4,2 строк → 1; min_price=32495; best_merchant='MHomeVideo'
+2_dedup,merged,duplicate_sku,108312851,"Конструктор LEGO Friends 41723, деталей 63 шт",18750,7,2 строк → 1; min_price=18750; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,108312851,"Конструктор LEGO Friends 41723, деталей 63 шт",18750,7,2 строк → 1; min_price=18750; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,103542703,"Конструктор Ausini Поезд 2575352, деталей 681 шт",19960,0,2 строк → 1; min_price=19960; best_merchant='30039103'
+2_dedup,merged,duplicate_sku,103542703,"Конструктор Ausini Поезд 2575352, деталей 681 шт",19960,0,2 строк → 1; min_price=19960; best_merchant='30039103'
+2_dedup,merged,duplicate_sku,100002538,LEGO Disney Princess Экспедиция Анны на каноэ 41165,21999,1,2 строк → 1; min_price=21999; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,100002538,LEGO Disney Princess Экспедиция Анны на каноэ 41165,21999,1,2 строк → 1; min_price=21999; best_merchant='Vsetovarykz'
+6_outliers,flagged,abnormal_delta_reviews,145538485,"Конструктор Dummy. Фигурка, конструктор. Аналоги: Dummy 13, Lucky Titan, T13 A00",899,43,Δreviews=2 > threshold=1 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,150126515,"Конструктор Shopaq Собери своего динозавра 0121855, деталей 90 шт",7480,15,Δreviews=2 > threshold=1 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,142618394,"Конструктор LEGO CREATOR 31173, деталей 225 шт",6940,19,Δreviews=2 > threshold=1 (Q3+3.0·IQR)
