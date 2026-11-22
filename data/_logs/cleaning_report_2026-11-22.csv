@@ -1,0 +1,5 @@
+stage,action,reason,product_id,name,price,reviews_count,detail
+2_dedup,merged,duplicate_sku,117540372,"Конструктор Brick Disney W2601-48, деталей 178 шт",300,58,2 строк → 1; min_price=300; best_merchant='30287062'
+2_dedup,merged,duplicate_sku,117540372,"Конструктор Brick Disney W2601-48, деталей 178 шт",300,58,2 строк → 1; min_price=300; best_merchant='30287062'
+2_dedup,merged,duplicate_sku,132836101,"Конструктор Bricks Веном F3024, деталей 100 шт",300,64,2 строк → 1; min_price=300; best_merchant='30287062'
+2_dedup,merged,duplicate_sku,132836101,"Конструктор Bricks Веном F3024, деталей 100 шт",300,64,2 строк → 1; min_price=300; best_merchant='30287062'
