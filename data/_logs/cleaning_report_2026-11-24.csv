@@ -1,0 +1,17 @@
+stage,action,reason,product_id,name,price,reviews_count,detail
+2_dedup,merged,duplicate_sku,106624013,"Конструктор LEGO Marvel Super Heroes 76178, деталей 3772 шт",290062,4,2 строк → 1; min_price=290062; best_merchant='8819014'
+2_dedup,merged,duplicate_sku,106624013,"Конструктор LEGO Marvel Super Heroes 76178, деталей 3772 шт",290062,4,2 строк → 1; min_price=290062; best_merchant='8819014'
+2_dedup,merged,duplicate_sku,120290237,"Конструктор LEGO Ninjago LG-71791, деталей 307 шт",39902,0,2 строк → 1; min_price=39902; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,120290237,"Конструктор LEGO Ninjago LG-71791, деталей 307 шт",39902,0,2 строк → 1; min_price=39902; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,134134895,"Конструктор LEGO Ninjago 892293, деталей 2 шт",19999,0,2 строк → 1; min_price=19999; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,134134895,"Конструктор LEGO Ninjago 892293, деталей 2 шт",19999,0,2 строк → 1; min_price=19999; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,103684258,"Конструктор STEM Magnetic sticks KJ2108-3, деталей 42 шт",2599,17,2 строк → 1; min_price=2599; best_merchant='30263887'
+2_dedup,merged,duplicate_sku,103684258,"Конструктор STEM Magnetic sticks KJ2108-3, деталей 42 шт",2599,17,2 строк → 1; min_price=2599; best_merchant='30263887'
+2_dedup,merged,duplicate_sku,141133377,"Конструктор LEGO Technic 89750412, деталей 130 шт",22999,0,2 строк → 1; min_price=22999; best_merchant='Vsetovarykz'
+2_dedup,merged,duplicate_sku,141133377,"Конструктор LEGO Technic 89750412, деталей 130 шт",22999,0,2 строк → 1; min_price=22999; best_merchant='Vsetovarykz'
+6_outliers,flagged,abnormal_delta_reviews,116113041,"Конструктор магнитный конструктор 30174474_653088, деталей 60 шт",2713,1357,Δreviews=3 > threshold=1 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,134426757,"Конструктор Minecraft 15415400_435688001, деталей 168 шт",3681,249,Δreviews=3 > threshold=1 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,112475541,"Конструктор LELEBROTHER Черный ястреб 8577, деталей 736 шт",2975,572,Δreviews=2 > threshold=1 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,131378652,"Конструктор Bricks Lego Bricks Animals, деталей 311 шт",649,187,Δreviews=2 > threshold=1 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,120995790,"Конструктор Bricks New Девочка Стич, деталей 197 шт",219,92,Δreviews=2 > threshold=1 (Q3+3.0·IQR)
+6_outliers,flagged,abnormal_delta_reviews,152298158,"Конструктор LEGO Minecraft 21585, деталей 233 шт",9940,22,Δreviews=2 > threshold=1 (Q3+3.0·IQR)
